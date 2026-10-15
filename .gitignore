@@ -1,0 +1,9 @@
+.DS_Store
+*.jpg
+*.jpeg
+*.png
+*.zip
+CareShift-*.json
+
+.vscode/
+local-artifacts/
